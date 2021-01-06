@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-gh-example",
+  "description": "Simple repo for experimenting with Jenkins pipelines and Github credentials.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC"
+}
